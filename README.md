@@ -8,9 +8,6 @@ A beginner-friendly BMI (Body Mass Index) calculator built using Python.
 - Color-coded output using `colorama`
 - Saves result to a text file
 
-## 📷 Screenshot
-![screenshot](./screenshot.png) *(optional)*
-
 ## 🚀 How to Run
 
 ### Run in Terminal
